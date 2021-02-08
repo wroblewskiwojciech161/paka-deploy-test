@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paka-deploy-test/static/css/main.92304f98.chunk.css",
-    "main.js": "/paka-deploy-test/static/js/main.8996e8fc.chunk.js",
-    "main.js.map": "/paka-deploy-test/static/js/main.8996e8fc.chunk.js.map",
+    "main.js": "/paka-deploy-test/static/js/main.aec6d659.chunk.js",
+    "main.js.map": "/paka-deploy-test/static/js/main.aec6d659.chunk.js.map",
     "runtime-main.js": "/paka-deploy-test/static/js/runtime-main.52384311.js",
     "runtime-main.js.map": "/paka-deploy-test/static/js/runtime-main.52384311.js.map",
     "static/css/2.e886426b.chunk.css": "/paka-deploy-test/static/css/2.e886426b.chunk.css",
@@ -19,14 +19,14 @@
     "static/media/logo_cropped.1b66c010.png": "/paka-deploy-test/static/media/logo_cropped.1b66c010.png",
     "static/media/main_logo.2ee1aed7.png": "/paka-deploy-test/static/media/main_logo.2ee1aed7.png",
     "static/media/photo-1.81741049.jpg": "/paka-deploy-test/static/media/photo-1.81741049.jpg",
-    "static/media/photo-2.7a790f0c.jpg": "/paka-deploy-test/static/media/photo-2.7a790f0c.jpg",
-    "static/media/photo-3.87e56bd0.jpg": "/paka-deploy-test/static/media/photo-3.87e56bd0.jpg"
+    "static/media/photo-2.217a0f7f.jpg": "/paka-deploy-test/static/media/photo-2.217a0f7f.jpg",
+    "static/media/photo-3.87bee605.jpg": "/paka-deploy-test/static/media/photo-3.87bee605.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.52384311.js",
     "static/css/2.e886426b.chunk.css",
     "static/js/2.58c61c71.chunk.js",
     "static/css/main.92304f98.chunk.css",
-    "static/js/main.8996e8fc.chunk.js"
+    "static/js/main.aec6d659.chunk.js"
   ]
 }
