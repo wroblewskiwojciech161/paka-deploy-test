@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/paka-deploy-test/static/css/main.92304f98.chunk.css",
-    "main.js": "/paka-deploy-test/static/js/main.aec6d659.chunk.js",
-    "main.js.map": "/paka-deploy-test/static/js/main.aec6d659.chunk.js.map",
+    "main.css": "/paka-deploy-test/static/css/main.a602a7d0.chunk.css",
+    "main.js": "/paka-deploy-test/static/js/main.a23a9cd8.chunk.js",
+    "main.js.map": "/paka-deploy-test/static/js/main.a23a9cd8.chunk.js.map",
     "runtime-main.js": "/paka-deploy-test/static/js/runtime-main.52384311.js",
     "runtime-main.js.map": "/paka-deploy-test/static/js/runtime-main.52384311.js.map",
     "static/css/2.e886426b.chunk.css": "/paka-deploy-test/static/css/2.e886426b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c4a35bbb.chunk.js.map": "/paka-deploy-test/static/js/3.c4a35bbb.chunk.js.map",
     "index.html": "/paka-deploy-test/index.html",
     "static/css/2.e886426b.chunk.css.map": "/paka-deploy-test/static/css/2.e886426b.chunk.css.map",
-    "static/css/main.92304f98.chunk.css.map": "/paka-deploy-test/static/css/main.92304f98.chunk.css.map",
+    "static/css/main.a602a7d0.chunk.css.map": "/paka-deploy-test/static/css/main.a602a7d0.chunk.css.map",
     "static/js/2.58c61c71.chunk.js.LICENSE.txt": "/paka-deploy-test/static/js/2.58c61c71.chunk.js.LICENSE.txt",
     "static/media/face.d2f78309.png": "/paka-deploy-test/static/media/face.d2f78309.png",
     "static/media/face2.beed7497.png": "/paka-deploy-test/static/media/face2.beed7497.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.52384311.js",
     "static/css/2.e886426b.chunk.css",
     "static/js/2.58c61c71.chunk.js",
-    "static/css/main.92304f98.chunk.css",
-    "static/js/main.aec6d659.chunk.js"
+    "static/css/main.a602a7d0.chunk.css",
+    "static/js/main.a23a9cd8.chunk.js"
   ]
 }
