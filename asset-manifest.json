@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paka-deploy-test/static/css/main.a602a7d0.chunk.css",
-    "main.js": "/paka-deploy-test/static/js/main.68ae7dab.chunk.js",
-    "main.js.map": "/paka-deploy-test/static/js/main.68ae7dab.chunk.js.map",
+    "main.js": "/paka-deploy-test/static/js/main.06bd4ed9.chunk.js",
+    "main.js.map": "/paka-deploy-test/static/js/main.06bd4ed9.chunk.js.map",
     "runtime-main.js": "/paka-deploy-test/static/js/runtime-main.52384311.js",
     "runtime-main.js.map": "/paka-deploy-test/static/js/runtime-main.52384311.js.map",
     "static/css/2.e886426b.chunk.css": "/paka-deploy-test/static/css/2.e886426b.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.e886426b.chunk.css",
     "static/js/2.58c61c71.chunk.js",
     "static/css/main.a602a7d0.chunk.css",
-    "static/js/main.68ae7dab.chunk.js"
+    "static/js/main.06bd4ed9.chunk.js"
   ]
 }
