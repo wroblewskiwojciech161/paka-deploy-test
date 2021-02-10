@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/paka-deploy-test/static/css/main.66a8cd39.chunk.css",
-    "main.js": "/paka-deploy-test/static/js/main.4ca13005.chunk.js",
-    "main.js.map": "/paka-deploy-test/static/js/main.4ca13005.chunk.js.map",
+    "main.css": "/paka-deploy-test/static/css/main.5dde9865.chunk.css",
+    "main.js": "/paka-deploy-test/static/js/main.e2e94101.chunk.js",
+    "main.js.map": "/paka-deploy-test/static/js/main.e2e94101.chunk.js.map",
     "runtime-main.js": "/paka-deploy-test/static/js/runtime-main.0544f9fa.js",
     "runtime-main.js.map": "/paka-deploy-test/static/js/runtime-main.0544f9fa.js.map",
     "static/css/2.7d2d7091.chunk.css": "/paka-deploy-test/static/css/2.7d2d7091.chunk.css",
-    "static/js/2.7145af4e.chunk.js": "/paka-deploy-test/static/js/2.7145af4e.chunk.js",
-    "static/js/2.7145af4e.chunk.js.map": "/paka-deploy-test/static/js/2.7145af4e.chunk.js.map",
+    "static/js/2.9ced8678.chunk.js": "/paka-deploy-test/static/js/2.9ced8678.chunk.js",
+    "static/js/2.9ced8678.chunk.js.map": "/paka-deploy-test/static/js/2.9ced8678.chunk.js.map",
     "static/js/3.f97158ba.chunk.js": "/paka-deploy-test/static/js/3.f97158ba.chunk.js",
     "static/js/3.f97158ba.chunk.js.map": "/paka-deploy-test/static/js/3.f97158ba.chunk.js.map",
     "index.html": "/paka-deploy-test/index.html",
     "static/css/2.7d2d7091.chunk.css.map": "/paka-deploy-test/static/css/2.7d2d7091.chunk.css.map",
-    "static/css/main.66a8cd39.chunk.css.map": "/paka-deploy-test/static/css/main.66a8cd39.chunk.css.map",
-    "static/js/2.7145af4e.chunk.js.LICENSE.txt": "/paka-deploy-test/static/js/2.7145af4e.chunk.js.LICENSE.txt",
+    "static/css/main.5dde9865.chunk.css.map": "/paka-deploy-test/static/css/main.5dde9865.chunk.css.map",
+    "static/js/2.9ced8678.chunk.js.LICENSE.txt": "/paka-deploy-test/static/js/2.9ced8678.chunk.js.LICENSE.txt",
     "static/media/face.d2f78309.png": "/paka-deploy-test/static/media/face.d2f78309.png",
     "static/media/face2.beed7497.png": "/paka-deploy-test/static/media/face2.beed7497.png",
     "static/media/logo_cropped.1b66c010.png": "/paka-deploy-test/static/media/logo_cropped.1b66c010.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.0544f9fa.js",
     "static/css/2.7d2d7091.chunk.css",
-    "static/js/2.7145af4e.chunk.js",
-    "static/css/main.66a8cd39.chunk.css",
-    "static/js/main.4ca13005.chunk.js"
+    "static/js/2.9ced8678.chunk.js",
+    "static/css/main.5dde9865.chunk.css",
+    "static/js/main.e2e94101.chunk.js"
   ]
 }
