@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.14a62ca5.chunk.css",
-    "main.js": "/static/js/main.2466f78c.chunk.js",
-    "main.js.map": "/static/js/main.2466f78c.chunk.js.map",
+    "main.js": "/static/js/main.fd619e85.chunk.js",
+    "main.js.map": "/static/js/main.fd619e85.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.22048907.js",
     "runtime-main.js.map": "/static/js/runtime-main.22048907.js.map",
     "static/css/2.f61ef1e7.chunk.css": "/static/css/2.f61ef1e7.chunk.css",
@@ -35,10 +35,9 @@
     "static/media/historia9.1306f743.jpg": "/static/media/historia9.1306f743.jpg",
     "static/media/logo_cropped.1b66c010.png": "/static/media/logo_cropped.1b66c010.png",
     "static/media/main_logo.3cbb2950.png": "/static/media/main_logo.3cbb2950.png",
-    "static/media/paka-konie.8327a780.jpg": "/static/media/paka-konie.8327a780.jpg",
-    "static/media/photo-4.395cc8fb.jpg": "/static/media/photo-4.395cc8fb.jpg",
     "static/media/photo-6.bd672ee2.jpg": "/static/media/photo-6.bd672ee2.jpg",
     "static/media/photo-7.56100cf4.jpg": "/static/media/photo-7.56100cf4.jpg",
+    "static/media/photo-8.19befd9c.jpg": "/static/media/photo-8.19befd9c.jpg",
     "static/media/scene_jck.d3f543e2.jpg": "/static/media/scene_jck.d3f543e2.jpg"
   },
   "entrypoints": [
@@ -46,6 +45,6 @@
     "static/css/2.f61ef1e7.chunk.css",
     "static/js/2.69860e96.chunk.js",
     "static/css/main.14a62ca5.chunk.css",
-    "static/js/main.2466f78c.chunk.js"
+    "static/js/main.fd619e85.chunk.js"
   ]
 }
